@@ -1,2 +1,2 @@
-# C--programming
+# C-programming
 My C - programming practice and problem solving journey.
